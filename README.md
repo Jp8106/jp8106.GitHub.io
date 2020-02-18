@@ -1,1 +1,1 @@
-# jp8106.GitHub.io
+# jp8106.github.io
